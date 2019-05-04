@@ -1,4 +1,4 @@
-https://travis-ci.org/quentinncl/docker-react.svg?branch=master
+[![Build Status](https://travis-ci.org/quentinncl/docker-react.svg?branch=master)](https://travis-ci.com/quentinncl/docker-react)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
